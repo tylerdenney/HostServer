@@ -23,3 +23,11 @@ C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\obj\Debug\HostServer.csp
 E:\Documents\GitHub\HostServer\HostServer\HostServer\bin\Debug\HostServer.exe.config
 E:\Documents\GitHub\HostServer\HostServer\HostServer\obj\Debug\HostServer.exe
 E:\Documents\GitHub\HostServer\HostServer\HostServer\obj\Debug\HostServer.pdb
+E:\Documents\GitHub\HostServer\HostServer\HostServer\bin\Debug\HostServer.exe
+E:\Documents\GitHub\HostServer\HostServer\HostServer\bin\Debug\HostServer.pdb
+E:\Documents\GitHub\HostServer\HostServer\HostServer\bin\Debug\System.Data.SQLite.dll
+E:\Documents\GitHub\HostServer\HostServer\HostServer\bin\Debug\System.Data.SQLite.xml
+E:\Documents\GitHub\HostServer\HostServer\HostServer\obj\Debug\HostServer.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\HostServer\HostServer\HostServer\obj\Debug\HostServer.Form1.resources
+E:\Documents\GitHub\HostServer\HostServer\HostServer\obj\Debug\HostServer.Properties.Resources.resources
+E:\Documents\GitHub\HostServer\HostServer\HostServer\obj\Debug\HostServer.csproj.GenerateResource.Cache

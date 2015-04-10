@@ -213,8 +213,10 @@ namespace HostServer
             string commandtext = "select AVG(Cost) from Orders";
             SQLiteCommand cmd = new SQLiteCommand(commandtext, m_dbConnection);
             SQLiteDataReader rdr = cmd.ExecuteReader();
-            rdr.Read();
-            return (double)rdr["AVG(Cost)"];
+            if (rdr.Read())
+                return (double)rdr["AVG(Cost)"];
+            else
+                return 0;
         }
         public double GetAveragePartySize()
         {
@@ -229,7 +231,7 @@ namespace HostServer
         public double[] GetAverageOrderCosts()
         {
             double[] ps = new double[7];
-            string[] days = { "Mon", "Tues", "Wed", "Thurs", "Fri", "Sat", "Sun" };
+            string[] days = { "Mon", "Tues", "Wed", "Thu", "Fri", "Sat", "Sun" };
             SQLiteConnection m_dbConnection = new SQLiteConnection("Data Source=Restaurant.db;Version=3;");
             m_dbConnection.Open();
             for(int i = 0; i < 7; ++i)
@@ -255,7 +257,7 @@ namespace HostServer
         public double[] GetAveragePartySizes()
         {
             double[] ps = new double[7];
-            string[] days = { "Mon", "Tues", "Wed", "Thurs", "Fri", "Sat", "Sun" };
+            string[] days = { "Mon", "Tues", "Wed", "Thu", "Fri", "Sat", "Sun" };
             SQLiteConnection m_dbConnection = new SQLiteConnection("Data Source=Restaurant.db;Version=3;");
             m_dbConnection.Open();
             for(int i = 0; i < 7; ++i)

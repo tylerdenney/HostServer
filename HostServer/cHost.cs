@@ -60,7 +60,7 @@ namespace HostServer
             try
             {
                 Int32 portNumber = 9999;
-                IPAddress localip = IPAddress.Parse("10.103.5.145");
+                IPAddress localip = IPAddress.Parse("192.168.1.2");
                 server = new TcpListener(localip, portNumber);
                 server.Start();
 
