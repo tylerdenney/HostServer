@@ -1,0 +1,25 @@
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\bin\Debug\HostServer.exe.config
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\bin\Debug\HostServer.exe
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\bin\Debug\HostServer.pdb
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\obj\Debug\HostServer.csprojResolveAssemblyReference.cache
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\obj\Debug\HostServer.Form1.resources
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\obj\Debug\HostServer.Properties.Resources.resources
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\obj\Debug\HostServer.csproj.GenerateResource.Cache
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\obj\Debug\HostServer.exe
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\obj\Debug\HostServer.pdb
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\bin\Debug\System.Data.SQLite.dll
+E:\Documents\Senior Project\HostServer\HostServer\HostServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\bin\Debug\HostServer.exe.config
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\obj\Debug\HostServer.exe
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\obj\Debug\HostServer.pdb
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\bin\Debug\HostServer.exe
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\bin\Debug\HostServer.pdb
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\obj\Debug\HostServer.csprojResolveAssemblyReference.cache
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\obj\Debug\HostServer.Form1.resources
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\obj\Debug\HostServer.Properties.Resources.resources
+C:\Users\tyler\Desktop\HostServer\HostServer\HostServer\obj\Debug\HostServer.csproj.GenerateResource.Cache
+E:\Documents\GitHub\HostServer\HostServer\HostServer\bin\Debug\HostServer.exe.config
+E:\Documents\GitHub\HostServer\HostServer\HostServer\obj\Debug\HostServer.exe
+E:\Documents\GitHub\HostServer\HostServer\HostServer\obj\Debug\HostServer.pdb
